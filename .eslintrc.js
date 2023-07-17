@@ -5,3 +5,5 @@ module.exports = {
     'prettier/@typescript-eslint',
     'prettier/react',
   ],
+ plugins: ['prettier'],
+  ignorePatterns: ['node_modules/', 'dist/'],
