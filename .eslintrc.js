@@ -7,3 +7,5 @@ module.exports = {
   ],
  plugins: ['prettier'],
   ignorePatterns: ['node_modules/', 'dist/'],
+  env: {
+    jest: true,
