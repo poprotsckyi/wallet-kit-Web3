@@ -9,3 +9,5 @@ module.exports = {
   ignorePatterns: ['node_modules/', 'dist/'],
   env: {
     jest: true,
+    browser: true,
+    node: true,
