@@ -13,3 +13,4 @@ module.exports = {
     node: true,
   },
   settings: {
+    'import/resolver': {
