@@ -23,3 +23,4 @@ module.exports = {
     window: 'readonly',
   },
   rules: {
+ 'prettier/prettier': 'error',
