@@ -26,3 +26,4 @@ module.exports = {
  'prettier/prettier': 'error',
     'react/jsx-props-no-spreading': 'off',
     'react/state-in-constructor': ['error', 'never'],
+    'react/no-array-index-key': 'off',
