@@ -29,3 +29,4 @@ module.exports = {
     'react/no-array-index-key': 'off',
     'react/prop-types': 'off',
     'react/no-danger': 'error',
+    'react/static-property-placement': 'off',
