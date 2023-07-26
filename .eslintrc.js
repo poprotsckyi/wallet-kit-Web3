@@ -27,3 +27,5 @@ module.exports = {
     'react/jsx-props-no-spreading': 'off',
     'react/state-in-constructor': ['error', 'never'],
     'react/no-array-index-key': 'off',
+    'react/prop-types': 'off',
+    'react/no-danger': 'error',
