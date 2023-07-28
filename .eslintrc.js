@@ -32,3 +32,5 @@ module.exports = {
     'react/static-property-placement': 'off',
     'react/destructuring-assignment': ['error', 'always', { ignoreClassFields: true }],
     'react/sort-comp': [
+      'error',
+      {
