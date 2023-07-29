@@ -34,3 +34,4 @@ module.exports = {
     'react/sort-comp': [
       'error',
       {
+        order: [
