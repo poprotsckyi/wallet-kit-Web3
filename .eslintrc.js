@@ -35,3 +35,5 @@ module.exports = {
       'error',
       {
         order: [
+          'static-variables',
+          'static-methods',
