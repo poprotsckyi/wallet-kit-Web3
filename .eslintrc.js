@@ -40,3 +40,5 @@ module.exports = {
           'instance-variables',
           'getters',
           'setters',
+          'lifecycle',
+          'render',
