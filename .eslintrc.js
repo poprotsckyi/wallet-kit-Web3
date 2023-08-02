@@ -44,3 +44,7 @@ module.exports = {
           'render',
           'instance-methods',
           'everything-else',
+        ],
+      },
+    ],
+    'import/prefer-default-export': 'off',
