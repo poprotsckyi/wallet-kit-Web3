@@ -52,3 +52,7 @@ module.exports = {
     'import/no-cycle': 'off',
     'import/no-unresolved': 'off',
     'import/order': [
+      'error',
+      {
+        groups: [['builtin', 'external'], 'internal', ['parent', 'sibling'], 'index'],
+        'newlines-between': 'always',
