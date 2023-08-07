@@ -59,3 +59,6 @@ module.exports = {
       },
     ],
     'import/extensions': [
+      'error',
+      {
+        js: 'never',
