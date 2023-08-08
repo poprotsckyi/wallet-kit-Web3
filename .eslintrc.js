@@ -62,3 +62,5 @@ module.exports = {
       'error',
       {
         js: 'never',
+        mjs: 'never',
+        jsx: 'never',
