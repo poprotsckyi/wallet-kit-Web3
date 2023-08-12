@@ -67,3 +67,6 @@ module.exports = {
         ts: 'never',
         'd.ts': 'never',
         tsx: 'never',
+      },
+    ],
+    '@typescript-eslint/no-use-before-define': 'off',
