@@ -72,3 +72,5 @@ module.exports = {
     '@typescript-eslint/no-use-before-define': 'off',
     '@typescript-eslint/type-annotation-spacing': [
       'error',
+      {
+        before: false,
