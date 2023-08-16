@@ -74,3 +74,4 @@ module.exports = {
       'error',
       {
         before: false,
+        after: true,
