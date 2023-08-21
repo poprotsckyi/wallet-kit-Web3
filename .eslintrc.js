@@ -79,3 +79,6 @@ module.exports = {
       },
     ],
     '@typescript-eslint/no-unused-expressions': [
+      'error',
+      { allowShortCircuit: true, allowTernary: true },      'error',
+      { allowShortCircuit: true, allowTernary: true },
