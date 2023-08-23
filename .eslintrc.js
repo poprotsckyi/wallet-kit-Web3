@@ -84,3 +84,4 @@ module.exports = {
       { allowShortCircuit: true, allowTernary: true },
    ],
     'no-restricted-imports': ['error', '@material-ui/core', '@material-ui/icons'],
+    'no-unused-expressions': ['error', { allowShortCircuit: true, allowTernary: true }],
