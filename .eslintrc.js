@@ -87,3 +87,4 @@ module.exports = {
     'no-unused-expressions': ['error', { allowShortCircuit: true, allowTernary: true }],
     'no-console': ['error', { allow: ['info', 'warn', 'error'] }],
     'no-dupe-class-members': 'off',
+    'lines-between-class-members': ['error', 'always', { exceptAfterSingleLine: true }],
