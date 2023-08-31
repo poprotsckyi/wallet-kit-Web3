@@ -89,3 +89,5 @@ module.exports = {
     'no-dupe-class-members': 'off',
     'lines-between-class-members': ['error', 'always', { exceptAfterSingleLine: true }],
     'no-undef': 'off',
+  },
+};
