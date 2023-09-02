@@ -91,3 +91,5 @@ module.exports = {
     'no-undef': 'off',
   },
 };
+.vscode
+lib
