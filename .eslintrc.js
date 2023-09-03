@@ -93,3 +93,5 @@ module.exports = {
 };
 .vscode
 lib
+coverage
+packages/*/dist
