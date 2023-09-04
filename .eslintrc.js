@@ -95,3 +95,4 @@ module.exports = {
 lib
 coverage
 packages/*/dist
+packages/*/temp
