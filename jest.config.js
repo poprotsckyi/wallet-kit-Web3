@@ -8,3 +8,4 @@ module.exports = {
   testPathIgnorePatterns: ['<rootDir>/node_modules/', '<rootDir>/generators/'],
 
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
+  moduleDirectories: ['node_modules', 'src'],
