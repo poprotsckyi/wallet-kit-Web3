@@ -9,3 +9,6 @@ module.exports = {
 
   moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
   moduleDirectories: ['node_modules', 'src'],
+  modulePaths: ['src'],
+
+  // This fixed an error related to the CSS and loading gif breaking
