@@ -12,3 +12,6 @@ module.exports = {
   modulePaths: ['src'],
 
   // This fixed an error related to the CSS and loading gif breaking
+  moduleNameMapper: {
+    '\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga|scss|css)$':
+      '<rootDir>/src/core/__mocks__/fileMock.ts',
