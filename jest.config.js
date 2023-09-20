@@ -17,3 +17,4 @@ module.exports = {
       '<rootDir>/src/core/__mocks__/fileMock.ts',
   },
   coverageDirectory: '<rootDir>/coverage',
+  collectCoverageFrom: ['**/src/**/*.{ts,tsx}', '!**/loader.{ts,tsx}', '!**/node_modules/**'],
