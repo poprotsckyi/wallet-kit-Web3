@@ -18,3 +18,5 @@ module.exports = {
   },
   coverageDirectory: '<rootDir>/coverage',
   collectCoverageFrom: ['**/src/**/*.{ts,tsx}', '!**/loader.{ts,tsx}', '!**/node_modules/**'],
+  coveragePathIgnorePatterns: ['.*\\.d\\.ts'],
+};
