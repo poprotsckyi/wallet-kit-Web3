@@ -25,3 +25,4 @@
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/generator" "^7.11.5"
+    "@babel/helper-module-transforms" "^7.11.0"
